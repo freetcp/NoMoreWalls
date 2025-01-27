@@ -36,11 +36,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 38eda6f2-6e04-4484-8f82-e859e76612d6
-- name: 14|新加坡3|@ripaojiedian
-  network: tcp
-  password: 9e2a92c6-bbe6-49fa-a280-e6f8f3eed7c5
-  port: 23570
-  server: zsg2.capoonetwork.com
-  skip-cert-verify: true
-  sni: v.qq.com
-  type: trojan
